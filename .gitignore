@@ -104,6 +104,7 @@ plots/
 *.jpg
 *.jpeg
 !atlas/*.png
+!assets/*.png
 
 # Large data files (optional, uncomment if needed)
 # *.nii
