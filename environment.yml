@@ -1,0 +1,25 @@
+name: subcortex-vis
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Python version
+  - python>=3.9
+
+  # Core dependencies
+  - numpy
+  - scipy
+  - nibabel
+
+  # Visualization
+  - pyvista
+  - matplotlib
+
+  # GUI
+  - pyqt=5
+  - pip
+
+  # Pip dependencies (not available in conda)
+  - pip:
+    - pyvistaqt

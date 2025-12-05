@@ -1,0 +1,700 @@
+HIP-head-m-rh
+1 205 213 230 255
+HIP-head-l-rh
+2 164 251 213 255
+HIP-body-rh
+3 161 47 41 255
+HIP-tail-rh
+4 215 46 32 255
+THA-VPm-rh
+5 72 136 51 255
+THA-VPl-rh
+6 189 55 141 255
+THA-VAi-rh
+7 238 175 78 255
+THA-VAs-rh
+8 193 251 91 255
+THA-DAm-rh
+9 238 228 151 255
+THA-DAl-rh
+10 182 215 227 255
+PUT-VA-rh
+11 237 236 77 255
+PUT-DA-rh
+12 107 200 76 255
+PUT-VP-rh
+13 231 61 247 255
+PUT-DP-rh
+14 160 59 95 255
+CAU-VA-rh
+15 124 250 140 255
+CAU-DA-rh
+16 240 222 183 255
+CAU-body-rh
+17 241 168 59 255
+CAU-tail-rh
+18 232 84 40 255
+lAMY-rh
+19 188 96 76 255
+mAMY-rh
+20 244 193 203 255
+THA-DP-rh
+21 178 246 162 255
+NAc-shell-rh
+22 112 148 230 255
+NAc-core-rh
+23 144 53 231 255
+pGP-rh
+24 221 137 231 255
+aGP-rh
+25 231 201 67 255
+HIP-head-m-lh
+26 205 213 230 255
+HIP-head-l-lh
+27 164 251 213 255
+HIP-body-lh
+28 161 47 41 255
+HIP-tail-lh
+29 215 46 32 255
+THA-VPm-lh
+30 72 136 51 255
+THA-VPl-lh
+31 189 55 141 255
+THA-VAi-lh
+32 238 175 78 255
+THA-VAs-lh
+33 193 251 91 255
+THA-DAm-lh
+34 238 228 151 255
+THA-DAl-lh
+35 182 215 227 255
+PUT-VA-lh
+36 237 236 77 255
+PUT-DA-lh
+37 107 200 76 255
+PUT-VP-lh
+38 231 61 247 255
+PUT-DP-lh
+39 160 59 95 255
+CAU-VA-lh
+40 124 250 140 255
+CAU-DA-lh
+41 240 222 183 255
+CAU-body-lh
+42 241 168 59 255
+CAU-tail-lh
+43 232 84 40 255
+lAMY-lh
+44 188 96 76 255
+mAMY-lh
+45 244 193 203 255
+THA-DP-lh
+46 178 246 162 255
+NAc-shell-lh
+47 112 148 230 255
+NAc-core-lh
+48 144 53 231 255
+pGP-lh
+49 221 137 231 255
+aGP-lh
+50 231 201 67 255
+7Networks_LH_Vis_1
+51 120 17 132 255
+7Networks_LH_Vis_2
+52 120 17 133 255
+7Networks_LH_Vis_3
+53 120 17 134 255
+7Networks_LH_Vis_4
+54 120 18 127 255
+7Networks_LH_Vis_5
+55 120 18 128 255
+7Networks_LH_Vis_6
+56 120 18 129 255
+7Networks_LH_Vis_7
+57 120 18 130 255
+7Networks_LH_Vis_8
+58 120 18 131 255
+7Networks_LH_Vis_9
+59 120 18 132 255
+7Networks_LH_Vis_10
+60 120 18 133 255
+7Networks_LH_Vis_11
+61 120 18 135 255
+7Networks_LH_Vis_12
+62 120 18 136 255
+7Networks_LH_Vis_13
+63 120 18 137 255
+7Networks_LH_Vis_14
+64 120 18 138 255
+7Networks_LH_Vis_15
+65 120 18 139 255
+7Networks_LH_Vis_16
+66 120 18 140 255
+7Networks_LH_Vis_17
+67 120 18 141 255
+7Networks_LH_Vis_18
+68 120 19 134 255
+7Networks_LH_Vis_19
+69 120 19 135 255
+7Networks_LH_Vis_20
+70 120 19 136 255
+7Networks_LH_Vis_21
+71 120 19 137 255
+7Networks_LH_Vis_22
+72 120 19 138 255
+7Networks_LH_Vis_23
+73 120 19 139 255
+7Networks_LH_Vis_24
+74 120 19 140 255
+7Networks_LH_SomMot_1
+75 70 129 175 255
+7Networks_LH_SomMot_2
+76 70 129 176 255
+7Networks_LH_SomMot_3
+77 70 129 177 255
+7Networks_LH_SomMot_4
+78 70 129 178 255
+7Networks_LH_SomMot_5
+79 70 129 179 255
+7Networks_LH_SomMot_6
+80 70 129 180 255
+7Networks_LH_SomMot_7
+81 70 130 173 255
+7Networks_LH_SomMot_8
+82 70 130 174 255
+7Networks_LH_SomMot_9
+83 70 130 175 255
+7Networks_LH_SomMot_10
+84 70 130 176 255
+7Networks_LH_SomMot_11
+85 70 130 177 255
+7Networks_LH_SomMot_12
+86 70 130 178 255
+7Networks_LH_SomMot_13
+87 70 130 179 255
+7Networks_LH_SomMot_14
+88 70 130 181 255
+7Networks_LH_SomMot_15
+89 70 130 182 255
+7Networks_LH_SomMot_16
+90 70 130 183 255
+7Networks_LH_SomMot_17
+91 70 130 184 255
+7Networks_LH_SomMot_18
+92 70 130 185 255
+7Networks_LH_SomMot_19
+93 70 130 186 255
+7Networks_LH_SomMot_20
+94 70 130 187 255
+7Networks_LH_SomMot_21
+95 70 131 180 255
+7Networks_LH_SomMot_22
+96 70 131 181 255
+7Networks_LH_SomMot_23
+97 70 131 182 255
+7Networks_LH_SomMot_24
+98 70 131 183 255
+7Networks_LH_SomMot_25
+99 70 131 184 255
+7Networks_LH_SomMot_26
+100 70 131 185 255
+7Networks_LH_SomMot_27
+101 70 131 186 255
+7Networks_LH_SomMot_28
+102 70 131 187 255
+7Networks_LH_SomMot_29
+103 70 132 180 255
+7Networks_LH_DorsAttn_Post_1
+104 0 118 10 255
+7Networks_LH_DorsAttn_Post_2
+105 0 118 11 255
+7Networks_LH_DorsAttn_Post_3
+106 0 118 12 255
+7Networks_LH_DorsAttn_Post_4
+107 0 118 13 255
+7Networks_LH_DorsAttn_Post_5
+108 0 118 15 255
+7Networks_LH_DorsAttn_Post_6
+109 0 118 16 255
+7Networks_LH_DorsAttn_Post_7
+110 0 118 17 255
+7Networks_LH_DorsAttn_Post_8
+111 0 118 18 255
+7Networks_LH_DorsAttn_Post_9
+112 0 118 19 255
+7Networks_LH_DorsAttn_Post_10
+113 0 118 20 255
+7Networks_LH_DorsAttn_Post_11
+114 0 118 21 255
+7Networks_LH_DorsAttn_Post_12
+115 0 119 14 255
+7Networks_LH_DorsAttn_FEF_1
+116 0 118 22 255
+7Networks_LH_DorsAttn_FEF_2
+117 0 119 15 255
+7Networks_LH_DorsAttn_FEF_3
+118 0 119 16 255
+7Networks_LH_DorsAttn_PrCv_1
+119 0 119 17 255
+7Networks_LH_SalVentAttn_ParOper_1
+120 196 58 251 255
+7Networks_LH_SalVentAttn_ParOper_2
+121 196 58 252 255
+7Networks_LH_SalVentAttn_ParOper_3
+122 196 58 253 255
+7Networks_LH_SalVentAttn_TempOcc_1
+123 196 58 254 255
+7Networks_LH_SalVentAttn_FrOperIns_1
+124 196 59 248 255
+7Networks_LH_SalVentAttn_FrOperIns_2
+125 196 59 249 255
+7Networks_LH_SalVentAttn_FrOperIns_3
+126 196 59 251 255
+7Networks_LH_SalVentAttn_FrOperIns_4
+127 196 59 252 255
+7Networks_LH_SalVentAttn_FrOperIns_5
+128 196 59 253 255
+7Networks_LH_SalVentAttn_FrOperIns_6
+129 196 59 254 255
+7Networks_LH_SalVentAttn_FrOperIns_7
+130 196 59 255 255
+7Networks_LH_SalVentAttn_PFCl_1
+131 193 52 249 255
+7Networks_LH_SalVentAttn_Med_1
+132 197 58 251 255
+7Networks_LH_SalVentAttn_Med_2
+133 197 58 252 255
+7Networks_LH_SalVentAttn_Med_3
+134 197 58 253 255
+7Networks_LH_SalVentAttn_Med_4
+135 197 58 254 255
+7Networks_LH_Limbic_OFC_1
+136 220 248 165 255
+7Networks_LH_Limbic_OFC_2
+137 220 248 166 255
+7Networks_LH_Limbic_OFC_3
+138 220 248 167 255
+7Networks_LH_Limbic_TempPole_1
+139 220 248 163 255
+7Networks_LH_Limbic_TempPole_2
+140 220 248 164 255
+7Networks_LH_Limbic_TempPole_3
+141 220 248 168 255
+7Networks_LH_Limbic_TempPole_4
+142 220 248 169 255
+7Networks_LH_Limbic_TempPole_5
+143 220 248 170 255
+7Networks_LH_Limbic_TempPole_6
+144 220 248 171 255
+7Networks_LH_Limbic_TempPole_7
+145 220 248 172 255
+7Networks_LH_Cont_Par_1
+146 230 148 35 255
+7Networks_LH_Cont_Par_2
+147 230 148 36 255
+7Networks_LH_Cont_Par_3
+148 230 148 37 255
+7Networks_LH_Cont_Par_4
+149 230 148 38 255
+7Networks_LH_Cont_Temp_1
+150 230 148 39 255
+7Networks_LH_Cont_OFC_1
+151 230 149 33 255
+7Networks_LH_Cont_PFCl_1
+152 230 149 34 255
+7Networks_LH_Cont_PFCl_2
+153 230 149 36 255
+7Networks_LH_Cont_PFCl_3
+154 230 149 37 255
+7Networks_LH_Cont_PFCl_4
+155 230 149 38 255
+7Networks_LH_Cont_PFCl_5
+156 230 149 39 255
+7Networks_LH_Cont_PFCl_6
+157 230 149 40 255
+7Networks_LH_Cont_pCun_1
+158 231 149 35 255
+7Networks_LH_Cont_pCun_2
+159 231 149 36 255
+7Networks_LH_Cont_Cing_1
+160 231 149 37 255
+7Networks_LH_Cont_Cing_2
+161 231 149 38 255
+7Networks_LH_Cont_PFCmp_1
+162 230 148 34 255
+7Networks_LH_Default_Temp_1
+163 205 62 75 255
+7Networks_LH_Default_Temp_2
+164 205 62 76 255
+7Networks_LH_Default_Temp_3
+165 205 62 77 255
+7Networks_LH_Default_Temp_4
+166 205 62 78 255
+7Networks_LH_Default_Temp_5
+167 205 62 80 255
+7Networks_LH_Default_Temp_6
+168 205 62 81 255
+7Networks_LH_Default_Temp_7
+169 205 62 82 255
+7Networks_LH_Default_Temp_8
+170 205 62 83 255
+7Networks_LH_Default_Par_1
+171 205 62 84 255
+7Networks_LH_Default_Par_2
+172 205 62 85 255
+7Networks_LH_Default_Par_3
+173 205 62 86 255
+7Networks_LH_Default_Par_4
+174 205 63 79 255
+7Networks_LH_Default_PFC_1
+175 205 63 71 255
+7Networks_LH_Default_PFC_2
+176 205 63 72 255
+7Networks_LH_Default_PFC_3
+177 205 63 73 255
+7Networks_LH_Default_PFC_4
+178 205 63 74 255
+7Networks_LH_Default_PFC_5
+179 205 63 75 255
+7Networks_LH_Default_PFC_6
+180 205 63 76 255
+7Networks_LH_Default_PFC_7
+181 205 63 77 255
+7Networks_LH_Default_PFC_8
+182 205 63 80 255
+7Networks_LH_Default_PFC_9
+183 205 63 81 255
+7Networks_LH_Default_PFC_10
+184 205 63 82 255
+7Networks_LH_Default_PFC_11
+185 205 63 83 255
+7Networks_LH_Default_PFC_12
+186 205 63 84 255
+7Networks_LH_Default_PFC_13
+187 205 63 85 255
+7Networks_LH_Default_PFC_14
+188 205 64 78 255
+7Networks_LH_Default_PFC_15
+189 205 64 79 255
+7Networks_LH_Default_PFC_16
+190 205 64 80 255
+7Networks_LH_Default_PFC_17
+191 205 64 81 255
+7Networks_LH_Default_PFC_18
+192 205 64 82 255
+7Networks_LH_Default_pCunPCC_1
+193 205 63 78 255
+7Networks_LH_Default_pCunPCC_2
+194 205 63 86 255
+7Networks_LH_Default_pCunPCC_3
+195 205 64 83 255
+7Networks_LH_Default_pCunPCC_4
+196 205 64 84 255
+7Networks_LH_Default_pCunPCC_5
+197 205 64 85 255
+7Networks_LH_Default_pCunPCC_6
+198 205 64 86 255
+7Networks_LH_Default_pCunPCC_7
+199 205 65 79 255
+7Networks_LH_Default_pCunPCC_8
+200 205 65 80 255
+7Networks_RH_Vis_1
+201 120 17 133 255
+7Networks_RH_Vis_2
+202 120 17 134 255
+7Networks_RH_Vis_3
+203 120 17 135 255
+7Networks_RH_Vis_4
+204 120 18 128 255
+7Networks_RH_Vis_5
+205 120 18 129 255
+7Networks_RH_Vis_6
+206 120 18 130 255
+7Networks_RH_Vis_7
+207 120 18 131 255
+7Networks_RH_Vis_8
+208 120 18 132 255
+7Networks_RH_Vis_9
+209 120 18 133 255
+7Networks_RH_Vis_10
+210 120 18 134 255
+7Networks_RH_Vis_11
+211 120 18 136 255
+7Networks_RH_Vis_12
+212 120 18 137 255
+7Networks_RH_Vis_13
+213 120 18 138 255
+7Networks_RH_Vis_14
+214 120 18 139 255
+7Networks_RH_Vis_15
+215 120 18 140 255
+7Networks_RH_Vis_16
+216 120 18 141 255
+7Networks_RH_Vis_17
+217 120 18 142 255
+7Networks_RH_Vis_18
+218 120 19 135 255
+7Networks_RH_Vis_19
+219 120 19 136 255
+7Networks_RH_Vis_20
+220 120 19 137 255
+7Networks_RH_Vis_21
+221 120 19 138 255
+7Networks_RH_Vis_22
+222 120 19 139 255
+7Networks_RH_Vis_23
+223 120 19 140 255
+7Networks_RH_SomMot_1
+224 70 129 177 255
+7Networks_RH_SomMot_2
+225 70 129 178 255
+7Networks_RH_SomMot_3
+226 70 129 179 255
+7Networks_RH_SomMot_4
+227 70 129 180 255
+7Networks_RH_SomMot_5
+228 70 129 181 255
+7Networks_RH_SomMot_6
+229 70 130 174 255
+7Networks_RH_SomMot_7
+230 70 130 175 255
+7Networks_RH_SomMot_8
+231 70 130 176 255
+7Networks_RH_SomMot_9
+232 70 130 177 255
+7Networks_RH_SomMot_10
+233 70 130 178 255
+7Networks_RH_SomMot_11
+234 70 130 179 255
+7Networks_RH_SomMot_12
+235 70 130 180 255
+7Networks_RH_SomMot_13
+236 70 130 182 255
+7Networks_RH_SomMot_14
+237 70 130 183 255
+7Networks_RH_SomMot_15
+238 70 130 184 255
+7Networks_RH_SomMot_16
+239 70 130 185 255
+7Networks_RH_SomMot_17
+240 70 130 186 255
+7Networks_RH_SomMot_18
+241 70 130 187 255
+7Networks_RH_SomMot_19
+242 70 130 188 255
+7Networks_RH_SomMot_20
+243 70 131 181 255
+7Networks_RH_SomMot_21
+244 70 131 182 255
+7Networks_RH_SomMot_22
+245 70 131 183 255
+7Networks_RH_SomMot_23
+246 70 131 184 255
+7Networks_RH_SomMot_24
+247 70 131 185 255
+7Networks_RH_SomMot_25
+248 70 131 186 255
+7Networks_RH_SomMot_26
+249 70 131 187 255
+7Networks_RH_SomMot_27
+250 70 131 188 255
+7Networks_RH_SomMot_28
+251 70 132 181 255
+7Networks_RH_DorsAttn_Post_1
+252 0 119 10 255
+7Networks_RH_DorsAttn_Post_2
+253 0 119 11 255
+7Networks_RH_DorsAttn_Post_3
+254 0 119 12 255
+7Networks_RH_DorsAttn_Post_4
+255 0 119 13 255
+7Networks_RH_DorsAttn_Post_5
+256 0 119 14 255
+7Networks_RH_DorsAttn_Post_6
+257 0 119 16 255
+7Networks_RH_DorsAttn_Post_7
+258 0 119 17 255
+7Networks_RH_DorsAttn_Post_8
+259 0 119 18 255
+7Networks_RH_DorsAttn_Post_9
+260 0 119 19 255
+7Networks_RH_DorsAttn_Post_10
+261 0 119 20 255
+7Networks_RH_DorsAttn_Post_11
+262 0 119 21 255
+7Networks_RH_DorsAttn_Post_12
+263 0 119 22 255
+7Networks_RH_DorsAttn_Post_13
+264 0 120 15 255
+7Networks_RH_DorsAttn_Post_14
+265 0 120 16 255
+7Networks_RH_DorsAttn_FEF_1
+266 1 118 15 255
+7Networks_RH_DorsAttn_FEF_2
+267 1 118 16 255
+7Networks_RH_DorsAttn_FEF_3
+268 1 118 17 255
+7Networks_RH_DorsAttn_PrCv_1
+269 1 118 18 255
+7Networks_RH_SalVentAttn_TempOccPar_1
+270 197 58 250 255
+7Networks_RH_SalVentAttn_TempOccPar_2
+271 197 58 252 255
+7Networks_RH_SalVentAttn_TempOccPar_3
+272 197 58 253 255
+7Networks_RH_SalVentAttn_TempOccPar_4
+273 197 58 254 255
+7Networks_RH_SalVentAttn_TempOccPar_5
+274 197 58 255 255
+7Networks_RH_SalVentAttn_PrC_1
+275 197 59 251 255
+7Networks_RH_SalVentAttn_FrOperIns_1
+276 197 59 250 255
+7Networks_RH_SalVentAttn_FrOperIns_2
+277 197 59 252 255
+7Networks_RH_SalVentAttn_FrOperIns_3
+278 197 59 253 255
+7Networks_RH_SalVentAttn_FrOperIns_4
+279 197 59 254 255
+7Networks_RH_SalVentAttn_FrOperIns_5
+280 197 59 255 255
+7Networks_RH_SalVentAttn_FrOperIns_6
+281 194 52 250 255
+7Networks_RH_SalVentAttn_Med_1
+282 196 57 248 255
+7Networks_RH_SalVentAttn_Med_2
+283 196 57 250 255
+7Networks_RH_SalVentAttn_Med_3
+284 196 57 251 255
+7Networks_RH_SalVentAttn_Med_4
+285 196 57 252 255
+7Networks_RH_SalVentAttn_Med_5
+286 196 57 253 255
+7Networks_RH_SalVentAttn_Med_6
+287 196 57 254 255
+7Networks_RH_Limbic_OFC_1
+288 220 249 165 255
+7Networks_RH_Limbic_OFC_2
+289 220 249 166 255
+7Networks_RH_Limbic_OFC_3
+290 220 249 167 255
+7Networks_RH_Limbic_OFC_4
+291 220 249 168 255
+7Networks_RH_Limbic_TempPole_1
+292 220 249 164 255
+7Networks_RH_Limbic_TempPole_2
+293 220 249 169 255
+7Networks_RH_Limbic_TempPole_3
+294 220 249 170 255
+7Networks_RH_Limbic_TempPole_4
+295 220 249 171 255
+7Networks_RH_Limbic_TempPole_5
+296 220 249 172 255
+7Networks_RH_Limbic_TempPole_6
+297 220 250 165 255
+7Networks_RH_Cont_Par_1
+298 230 147 35 255
+7Networks_RH_Cont_Par_2
+299 230 147 36 255
+7Networks_RH_Cont_Par_3
+300 230 147 37 255
+7Networks_RH_Cont_Temp_1
+301 230 147 34 255
+7Networks_RH_Cont_PFCv_1
+302 229 148 35 255
+7Networks_RH_Cont_PFCl_1
+303 229 148 29 255
+7Networks_RH_Cont_PFCl_2
+304 229 148 30 255
+7Networks_RH_Cont_PFCl_3
+305 229 148 31 255
+7Networks_RH_Cont_PFCl_4
+306 229 148 32 255
+7Networks_RH_Cont_PFCl_5
+307 229 148 34 255
+7Networks_RH_Cont_PFCl_6
+308 229 148 36 255
+7Networks_RH_Cont_PFCl_7
+309 229 148 37 255
+7Networks_RH_Cont_PFCl_8
+310 229 148 38 255
+7Networks_RH_Cont_PFCl_9
+311 229 148 39 255
+7Networks_RH_Cont_PFCl_10
+312 229 148 40 255
+7Networks_RH_Cont_PFCl_11
+313 229 149 33 255
+7Networks_RH_Cont_PFCl_12
+314 229 149 34 255
+7Networks_RH_Cont_pCun_1
+315 229 147 35 255
+7Networks_RH_Cont_pCun_2
+316 229 147 36 255
+7Networks_RH_Cont_Cing_1
+317 229 147 34 255
+7Networks_RH_Cont_Cing_2
+318 229 147 37 255
+7Networks_RH_Cont_PFCmp_1
+319 230 148 37 255
+7Networks_RH_Cont_PFCmp_2
+320 230 148 38 255
+7Networks_RH_Default_Par_1
+321 205 62 76 255
+7Networks_RH_Default_Par_2
+322 205 62 78 255
+7Networks_RH_Default_Par_3
+323 205 62 79 255
+7Networks_RH_Default_Par_4
+324 205 62 80 255
+7Networks_RH_Default_Par_5
+325 205 62 81 255
+7Networks_RH_Default_Temp_1
+326 205 61 77 255
+7Networks_RH_Default_Temp_2
+327 205 61 79 255
+7Networks_RH_Default_Temp_3
+328 205 61 80 255
+7Networks_RH_Default_Temp_4
+329 205 61 81 255
+7Networks_RH_Default_Temp_5
+330 205 61 82 255
+7Networks_RH_Default_Temp_6
+331 205 61 83 255
+7Networks_RH_Default_PFCv_1
+332 205 61 78 255
+7Networks_RH_Default_PFCv_2
+333 205 61 84 255
+7Networks_RH_Default_PFCv_3
+334 205 62 77 255
+7Networks_RH_Default_PFCdPFCm_1
+335 204 62 75 255
+7Networks_RH_Default_PFCdPFCm_2
+336 204 62 76 255
+7Networks_RH_Default_PFCdPFCm_3
+337 204 62 77 255
+7Networks_RH_Default_PFCdPFCm_4
+338 204 62 79 255
+7Networks_RH_Default_PFCdPFCm_5
+339 204 62 80 255
+7Networks_RH_Default_PFCdPFCm_6
+340 204 62 81 255
+7Networks_RH_Default_PFCdPFCm_7
+341 204 62 82 255
+7Networks_RH_Default_PFCdPFCm_8
+342 204 62 83 255
+7Networks_RH_Default_PFCdPFCm_9
+343 204 62 84 255
+7Networks_RH_Default_PFCdPFCm_10
+344 204 62 85 255
+7Networks_RH_Default_pCunPCC_1
+345 204 62 78 255
+7Networks_RH_Default_pCunPCC_2
+346 204 63 77 255
+7Networks_RH_Default_pCunPCC_3
+347 204 63 78 255
+7Networks_RH_Default_pCunPCC_4
+348 204 63 79 255
+7Networks_RH_Default_pCunPCC_5
+349 204 63 80 255
+7Networks_RH_Default_pCunPCC_6
+350 204 63 81 255

@@ -1,0 +1,71 @@
+[project]
+name = "subcortex-vis"
+version = "0.1.0"
+description = "Lightweight tool for subcortical brain mesh visualization"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+keywords = ["neuroscience", "visualization", "brain", "subcortex", "mesh", "nifti"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+    "Topic :: Scientific/Engineering :: Visualization",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+dependencies = [
+    "numpy",
+    "scipy",
+    "nibabel",
+    "pyvista",
+    "matplotlib",
+]
+
+[project.optional-dependencies]
+gui = [
+    "PyQt5",
+    "pyvistaqt",
+]
+dev = [
+    "pytest",
+    "black",
+    "ruff",
+]
+all = [
+    "subcortex-vis[gui,dev]",
+]
+
+[project.scripts]
+subcortex-gui = "subcortex_vis.gui:main"
+
+[project.urls]
+Homepage = "https://github.com/yourusername/subcortex-vis"
+Repository = "https://github.com/yourusername/subcortex-vis"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["subcortex_vis*"]
+
+[tool.black]
+line-length = 100
+target-version = ["py39", "py310", "py311", "py312"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "C4"]
+ignore = ["E501"]
