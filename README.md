@@ -2,7 +2,7 @@
 
 [English](README_EN.md) | 中文
 
-轻量级工具，用于导入 NIfTI (`.nii/.nii.gz`) 体数据，通过 marching cubes 提取网格并在 PyVista 中可视化。逻辑参考了仓库中的 `subcortex_regional_overlap.ipynb`。
+轻量级工具，用于导入 NIfTI (`.nii/.nii.gz`) 体数据，通过 marching cubes 提取网格并在 PyVista 中可视化。
 
 ## 依赖
 - Python 3.9+
@@ -53,7 +53,7 @@ python -m subcortex_vis.mesh_viz \
   --sigma 0.8 \
   --smooth-iter 30 \
   --view left \
-  --screenshot plots/demo_mesh.png
+  --screenshot screenshot.png
 ```
 
 参数说明：

@@ -2,7 +2,7 @@
 
 English | [中文](README.md)
 
-A lightweight tool for importing NIfTI (`.nii/.nii.gz`) volumetric data, extracting meshes via marching cubes, and visualizing them in PyVista. The implementation is based on the logic in `subcortex_regional_overlap.ipynb`.
+A lightweight tool for importing NIfTI (`.nii/.nii.gz`) volumetric data, extracting meshes via marching cubes, and visualizing them in PyVista.
 
 ## Dependencies
 
@@ -55,7 +55,7 @@ python -m subcortex_vis.mesh_viz \
   --sigma 0.8 \
   --smooth-iter 30 \
   --view left \
-  --screenshot plots/demo_mesh.png
+  --screenshot screenshot.png
 ```
 
 Parameters:
