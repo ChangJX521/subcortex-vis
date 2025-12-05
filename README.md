@@ -77,6 +77,8 @@ visualize_mesh(mesh, view="left", background="white")
 
 支持载入 NIfTI、自动列出非 0 标签、选择/全选多 ROI、自定义颜色、导入 ROI 数值并应用 colormap、调节平滑参数、切换视角、截图保存。
 
+![GUI Demo](assets/GUI_demo.png)
+
 ### 启动方式
 
 ```bash

@@ -80,6 +80,8 @@ visualize_mesh(mesh, view="left", background="white")
 
 Features: Load NIfTI files, auto-list non-zero labels, multi-select ROIs, custom colors, import ROI values with colormap support, adjust smoothing parameters, switch views, and save screenshots.
 
+![GUI Demo](assets/GUI_demo.png)
+
 ### Launch Methods
 
 ```bash
