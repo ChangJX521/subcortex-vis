@@ -1,0 +1,6 @@
+# Override GitHub language detection
+# Treat Jupyter Notebooks as Python for language statistics
+*.ipynb linguist-language=Python
+
+# Or exclude notebooks from language stats entirely (uncomment if preferred)
+# *.ipynb linguist-vendored
